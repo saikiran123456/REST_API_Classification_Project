@@ -24,7 +24,7 @@ Using "local_classifier" and "local_scaler", to Predict whether a Customer with 
 ---------
 -> Performed/Test this Serialize objects in another Environment like "On Premise/Cloud)  like Google COLAB
 
--- Get the classifier.pickle and scaler.pickle {link address} which is Stored in GitHub and load in COLAB for predictions
+-> Get the classifier.pickle and scaler.pickle {link address} which is Stored in GitHub and load in COLAB for predictions
 -------------
 
 
