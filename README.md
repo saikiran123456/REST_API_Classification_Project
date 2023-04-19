@@ -1,5 +1,9 @@
 # REST_API_Classification_Project
-The main AIM of this Project is that I'm Showing How to Create a REST-API and Testing on Local environment, Cloud Colab environment and also Using Google Cloud Platform by creating VM Instance and using REST-API and also Creating a Bucket and storing pickle files, a Folder and function with CODE for Serverless REST-API for Machine Learning model and Deploy it on Cloud!!
+The main AIM of this Project is that I'm Showing 
+
+- How to Create a Classification Model and Using REST-API and Testing Predictions on Local environment, Cloud Colab environment and also 
+- Using Google Cloud Platform by creating VM Instance and using REST-API 
+- and also Creating a Bucket and storing pickle files, a Folder and function with CODE for Serverless REST-API for Machine Learning model and Deploy it on Cloud for Testing predictions!!
 
 
 # Create a ML Model which predicts whether a Client purchase a term deposit or not, based on Age and Salary features
